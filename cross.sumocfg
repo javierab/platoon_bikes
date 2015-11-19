@@ -1,0 +1,5 @@
+<configuration>
+	<route-files value="cross.rou.xml"/>
+    <net-file value="cross3.net.xml"/>    
+	<gui-settings-file value="cross.settings.xml"/>
+</configuration>
