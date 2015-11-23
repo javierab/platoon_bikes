@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on Wed Aug 26 19:39:52 2015 by SUMO netconvert Version 0.21.0
-<?xml version="1.0" encoding="UTF-8"?>
-
-<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/netconvertConfiguration.xsd">
-
-    <input>
-        <node-files value="cross.nod.xml"/>
-        <edge-files value="cross.edg.xml"/>
-        <connection-files value="cross.con.xml"/>
-    </input>
-
-    <output>
-        <output-file value="cross.net.xml"/>
-    </output>
-
-    <processing>
-        <no-turnarounds value="true"/>
-        <junctions.join value="true"/>
-    </processing>
-
-</configuration>
--->
-
 <net version="0.13" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo-sim.org/xsd/net_file.xsd">
 
     <location netOffset="200.00,200.00" convBoundary="0.00,0.00,400.00,400.00" origBoundary="-200.00,-200.00,200.00,200.00" projParameter="!"/>
