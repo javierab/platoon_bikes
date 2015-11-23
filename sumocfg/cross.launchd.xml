@@ -2,9 +2,9 @@
 <!-- debug config -->
 <launch>
 
-	<basedir path="examples/platoonBikes/sumocfg" />
+	<basedir path="examples/platoonBikes/sumocfg/" />
 	<copy file="cross.net.xml" />
 	<copy file="cross.rou.xml" />
+	<copy file="cross.settings.xml" />
 	<copy file="cross.sumocfg" type="config" />
 </launch>
-hah
